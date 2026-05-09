@@ -3,23 +3,32 @@
 📌 Project Overview 
 
 This project focuses on cleaning and analysing the FIFA 21 dataset.
-The dataset contains messy real-world football player data, which was cleaned and transformed into a structured format for analysis.
+
+The dataset contains messy real-world football player data, which was cleaned and 
+transformed into a structured format for analysis.
 
 The goal is to demonstrate data cleaning, transformation, and exploratory data analysis (EDA) skills using Python.
 
 🧠 Objectives
 
 Clean messy FIFA 21 raw dataset
+
 Handle inconsistent formats (currency, height, weight, ratings)
+
 Rename and structure columns properly
+
 Perform exploratory data analysis (EDA)
+
 Extract insights from player data
 
 🛠️ Tools & Libraries
 
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
 
 🧹 Data Cleaning Process 
