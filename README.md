@@ -1,6 +1,7 @@
 ⚽ FIFA 21 Data Cleaning & Exploratory Data Analysis
 
 📌 Project Overview 
+
 This project focuses on cleaning and analysing the FIFA 21 dataset.
 The dataset contains messy real-world football player data, which was cleaned and transformed into a structured format for analysis.
 
@@ -15,12 +16,14 @@ Perform exploratory data analysis (EDA)
 Extract insights from player data
 
 🛠️ Tools & Libraries
+
 Python
 Pandas
 NumPy
 Matplotlib
 
 🧹 Data Cleaning Process 
+
 The dataset required significant cleaning, including:
 Converting Value and Wage from strings (€, K, M) to numeric values
 Converting Height from feet/inches to centimeters
